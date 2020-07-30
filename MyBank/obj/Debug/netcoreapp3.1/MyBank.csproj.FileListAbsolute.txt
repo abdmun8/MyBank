@@ -1,0 +1,13 @@
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.exe
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.deps.json
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.json
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.dev.json
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csprojAssemblyReference.cache
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfoInputs.cache
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfo.cs
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\Abdul Munim\source\repos\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.genruntimeconfig.cache
